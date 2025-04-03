@@ -10,7 +10,7 @@ namespace Week3_Operators
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Operatorler başlangıç : Development Branch");
+            Console.WriteLine("Operatorler başlangıç : Development Branch"); 
         }
     }
 }
